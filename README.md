@@ -1,1 +1,1 @@
-# A-Game-of-Thrones-themed-object-oriented-programming-with-cpp
+A fun and basic project with fundamental properties of object orientation with C++
